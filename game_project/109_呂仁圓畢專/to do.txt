@@ -1,0 +1,8 @@
+顯示打出來的字
+答對的字可以有視覺效果
+顯示題庫
+語音輸入
+
+arrow keys
+alphabet
+voice
